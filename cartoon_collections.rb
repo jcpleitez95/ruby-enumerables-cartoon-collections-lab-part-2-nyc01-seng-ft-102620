@@ -25,4 +25,5 @@ def find_valid_calls(planeteer_calls)
   valid_calls.each do |calls|
     return calls if planeteer_calls.include?(calls) == true
   end
+ nil 
 end
