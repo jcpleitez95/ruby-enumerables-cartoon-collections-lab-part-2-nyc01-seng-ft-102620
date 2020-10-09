@@ -16,6 +16,7 @@ def long_planeteer_calls(planeteer_calls)
     if calls.length > 4
       answer = true 
     end
+  end
     answer
 end
 
