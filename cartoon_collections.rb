@@ -12,6 +12,8 @@ end
 
 def long_planeteer_calls(planeteer_calls)
   
+  planeteer_calls.each do |calls|
+    if calls >
 end
 
 def find_valid_calls(planeteer_calls)
